@@ -26,3 +26,18 @@
 ###  🗐 Hakkımda sayfası üzerinden düzenleme yapabilir
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/c70d3911311a67aeb6275056df89b238830f6e90/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140206.png)
 
+### 🗐  Eğitimlerim sayfası üzerinden, eğer daha önceden giriş yapıp ekledi ise eklediği bilgileri görüntüleyebilir. 
+### ❌ Veya sil butonuna tıklayarak ilgili bilgileri silebilir.
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/0921c6712579d6f53e28fa1cca9252ff146cf284/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140214.png)
+#### 🔄  Düzenle butonuna tıklayarak girilmiş bilgileri güncelleyebilir .
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/0921c6712579d6f53e28fa1cca9252ff146cf284/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140228.png)
+#### 🆕 Dilerse yeni bir eğitim eklemesi yapabilir
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/0921c6712579d6f53e28fa1cca9252ff146cf284/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140220.png)
+
+### 🗐  Deneyimlerim sayfası , eğer daha önceden giriş yapıp ekledi ise eklediği bilgileri görüntüleyebilir.
+### ❌ Veya sil butonuna tıklayarak ilgili bilgileri silebilir.
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/0921c6712579d6f53e28fa1cca9252ff146cf284/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140240.png)
+#### 🔄  Düzenle butonuna tıklayarak girilmiş bilgileri güncelleyebilir 
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/0921c6712579d6f53e28fa1cca9252ff146cf284/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140245.png)
+#### 🆕 Dilerse yeni bir eğitim eklemesi yapabilir
+![Image Alt]()
