@@ -1,0 +1,122 @@
+﻿@using MvcCV.Models.Entity
+@model List<Tbl_SocialMedia>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <!-- Navbar -->
+        <!-- Main content -->
+        >
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Sosyal Medya Sayfası</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body">
+                          <button class="btn btn-outline-primary" data-toggle="modal" data-target="#Modal1">Yeni Sosyal Medya Hesabı Ekle</button>
+                            <br />
+                            <br />
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                        <th>Sosyal Medya</th>
+                                        <th>Durum</th>
+                                        <th style="width: 40px">Düzenle</th>
+                                        <th style="width: 40px">Sil</th>
+
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                 @foreach(var item in Model)
+            {
+
+                <tr>
+
+                    <td>@item.ID</td>
+                    <td>@item.nameS</td>
+                    <td>@item.Durum</td>
+
+                    <td>
+
+                        <a class="btn btn-outline-info" href="/SocialMedia/SayfaGetir/@item.ID">Düzenle</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-outline-danger" href="/SocialMedia/Sil/@item.ID">Sil</a>
+                    </td>
+                </tr>
+            }
+
+                                </tbody>
+                            </table>
+                        </div>
+                        <!-- /.card-body -->
+
+                    </div>
+                    <!-- /.card -->
+                    <!-- /.card -->
+                </div>
+                <!-- /.col -->
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+            <!-- /.row -->
+        </div>
+        <!-- /.card-header -->
+        <!-- /.card-body -->
+    </div>
+    <!-- /.card -->
+    <!-- /.row -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="modal" id="Modal1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title">Yeni Sosyal Medya Ekleme Alanı</h2>
+                    </div>
+                    <form method="post" action="/SocialMedia/Ekle">
+                        <div class="modal-body">
+                            <label>Sosyal Medya İsmi</label>
+                            <input type="text" name="nameS" class="form-control" />
+                            <br />
+                            <label>Sosyal Medya Linki</label>
+                            <input type="text" name="Link" class="form-control" />
+                            <br />
+                            <label>İkon Değeri</label>
+                            <input type="text" name="Icon" class="form-control" />
+                            <br />
+                            <button class="btn btn-outline-info">Kaydet</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- /.row -->
+</body>
+</html>
+
+

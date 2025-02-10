@@ -1,0 +1,30 @@
+﻿@using MvcCV.Models.Entity
+@model  List<Tbl_Project>
+
+<div class="resume-section-content">
+    <h2 class="mb-5">Projelerim</h2>
+    @foreach (var x in Model)
+    {
+        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">@x.Title</h3>
+                <br />
+                <div class="subheading mb-3">@x.SecondTitle</div>
+                <br />
+                <p>@x.Description</p>
+
+                <span class="d-none d-lg-block"><img src="@x.images" alt="..." width="160%" /></span>
+                <br />
+                <br />
+                <h3>Projenin Detaylarına Aşağıdaki Link Üzerinden Ulaşabilirsiniz</h3>
+
+                <a href="@x.Link">@x.Link</a>
+
+
+            </div>
+           
+       
+        </div>
+    }
+</div>
+
