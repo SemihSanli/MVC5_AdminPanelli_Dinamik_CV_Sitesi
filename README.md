@@ -59,6 +59,15 @@
 #### 🆕 Dilerse yeni bir yetenek eklemesi yapabilir
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/2841d72b0e4852bb0d44618108ecfba06b9bc037/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140339.png)
 
+### 🗐 🏅 Sertifikalarım sayfası üzerinden , eğer daha önceden giriş yapıp ekledi ise eklediği bilgileri görüntüleyebilir. 
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/d104c9d8a1eb30d754f9fb4220c9d2c2fe62881b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20152717.png)
+#### 🔄  Düzenle butonuna tıklayarak girilmiş bilgileri güncelleyebilir
+#### ❌ Veya sil butonuna tıklayarak ilgili bilgileri silebilir
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/d104c9d8a1eb30d754f9fb4220c9d2c2fe62881b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20152726.png)
+#### 🆕 Dilerse yeni bir sertifika eklemesi yapabilir
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/d104c9d8a1eb30d754f9fb4220c9d2c2fe62881b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20152737.png)
+
+
 
 ###  🗐 📱 Sosyal medya sayfası üzerinden , eğer daha önceden giriş yapıp ekledi ise eklediği bilgileri görüntüleyebilir. 
 ### ❌ Veya sil butonuna tıklayarak ilgili bilgileri silebilir.
@@ -78,45 +87,24 @@
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140449.png)
 
 
-# Soldaki panel üzerinde bulunan "Siteye Git"  Butonu ile siteyi ziyaret edebilir
+# 🪟 Soldaki panel üzerinde bulunan "Siteye Git"  Butonu ile siteyi ziyaret edebilir
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/e5aa4667afc8f4175d56fd862fac221f6ae09092/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20153807.png)
 
-
-# ℹ️ Hakkımda Sayfası. Burada eklemiş olduğu;
-## 🏠︎ Adres
-## 🕻 Telefon
-## 📩 Mail
-## 📝 Açıklama
-## 📱 Sosyal medya ikonlarını  görüntüleyebilir
+# ℹ️ Hakkımda Sayfası. Burada eklemiş olduğu hakkımda bilgilerini görüntüleyebilir;
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20135955.png)
 
-# 💼  Deneyimlerim sayfası üzerinden eklediği;
-## ⭐ başlık
-## ⭐ altbaşlık
-## 📝 açıklama
-## 📅 tarih'i görüntüleyebilir
+# 💼  Deneyimlerim sayfası üzerinden eklediği deneyim bilgilerini görüntüleyebilir
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140013.png)
 
-# 🎓  Eğitimlerim sayfası üzerinden eklediği;
-## ⭐ başlık
-## ⭐ altbaşlık
-## 📋 Not Ortalamasını
-## 📅 tarih'i görüntüleyebilir
+# 🎓  Eğitimlerim sayfası üzerinden eklediği eğitim bilgilerini görüntüleyebilir
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140024.png)
 
-# 🎯  Eğitimlerim sayfası üzerinden eklediği;
-## ⭐ başlık
-## ⭐ altbaşlıkları görüntüleyebilir
+# 🎯 Yeteneklerim sayfası üzerinden eklediği yetenek bilgilerini görüntüleyebilir
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140035.png)
 
-# 🗂️ Projelerim sayfası üzerinden eklediği;
-## ⭐ başlık
-## ⭐ altbaşlık
-## 📝 Açıklama
-## 🌐 Link'i görüntüleyebilir
+# 🗂️ Projelerim sayfası üzerinden eklediği proje bilgilerini görüntüleyebilir;
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140107.png)
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140126.png)
 
-#  🏅 Sertifikalarım sayfası üzerinden eklediği;
-## ⭐ başlık
-## ⭐ altbaşlık
+#  🏅 Sertifikalarım sayfası üzerinden eklediği sertifika bilgilerini görüntüleyebilir
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/a31d97abb5f79fb6c2a13f3819678112fbb1a13b/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140136.png)
