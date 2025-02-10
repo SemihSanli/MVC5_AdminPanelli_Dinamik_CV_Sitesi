@@ -12,6 +12,21 @@
 ## 🛠 Veri Tabanı İçin MSSQL
 ## 🛠 Entity FrameWork DbFirst Yaklaşımı
 
+
+# 📌 Projenin bana kazandırdıkları;
+
+## 🏆 Repository Design Pattern,
+
+## 🏆 Required Validation Kontrolü,
+
+## 🏆  LogIn işlemleri için Authorize yapısı,
+
+## 🏆  Asp.Net MVC yapısını pekiştirmemi
+
+## 🏆  Entity FrameWork DbFirst yaklaşımını pekiştirmemi,
+
+## 🏆  PartialView Kullanımını pekiştirmemi sağladı.
+
 # ✏️ Proje Açıklaması
 
 # 🔓Login Paneli
