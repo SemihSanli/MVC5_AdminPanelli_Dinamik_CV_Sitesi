@@ -44,9 +44,9 @@
 
 ### 🗐 🗂️ Projelerim Sayfası üzerinden, eğer daha önceden giriş yapıp ekledi ise eklediği bilgileri görüntüleyebilir. 
 ### ❌ Veya sil butonuna tıklayarak ilgili bilgileri silebilir.
-![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/2841d72b0e4852bb0d44618108ecfba06b9bc037/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140254.png)
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/8bac99b777479f761dff6fbe346ce774833b1eb0/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20155411.png)
 #### 🔄  Düzenle butonuna tıklayarak girilmiş bilgileri güncelleyebilir 
-![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/2841d72b0e4852bb0d44618108ecfba06b9bc037/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140259.png)
+![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/8bac99b777479f761dff6fbe346ce774833b1eb0/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20155419.png)
 #### 🆕 Dilerse yeni bir proje eklemesi yapabilir
 ![Image Alt](https://github.com/SemihSanli/MVC5_AdminPanelli_Dinamik_CV_Sitesi/blob/2841d72b0e4852bb0d44618108ecfba06b9bc037/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-10%20140305.png)
 
